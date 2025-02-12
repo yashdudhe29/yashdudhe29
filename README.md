@@ -4,11 +4,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on ****
-- 🌱 I’m learning **]**
-- 👯 I’m looking to collaborate on **[Project/Open Source]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email or Social Media]**
+- 🔭 I’m currently pursuing diploma in "Information Technology"
+- 🌱 I’m learning Web DEvelopment
+- 👯 I’m looking to collaborate on any web realted project
+
+- 📫 How to reach me: dudheyash29@gmail.com
 
 ---
 
@@ -24,9 +24,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yashdudhe29&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashdudhe29&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdudhe29&layout=compact&theme=radical)
 
 ---
 
